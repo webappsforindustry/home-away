@@ -4,7 +4,6 @@ function HomePage() {
   return (
     <main role='main'>
       <h1 className="text-3xl">HomePage</h1>
-      <h1>Bedankt Els voor de lekkere koekjes</h1>
       <Button
         variant="outline"
         size="lg"
