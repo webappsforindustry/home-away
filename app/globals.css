@@ -80,3 +80,8 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 }
+
+.select-none {
+    user-select: none;
+    -webkit-user-select: none;
+}
