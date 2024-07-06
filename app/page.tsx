@@ -2,7 +2,7 @@ import { Button } from '@/components/ui/button';
 
 function HomePage() {
   return (
-    <div>
+    <main>
       <h1 className="text-3xl">HomePage</h1>
       <Button
         variant="outline"
@@ -11,7 +11,7 @@ function HomePage() {
       >
         click me
       </Button>
-    </div>
+    </main>
   );
 }
 export default HomePage;
